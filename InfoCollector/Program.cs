@@ -22,3 +22,4 @@ else
 {
     Console.WriteLine($"{name} don't share your info with others");
 }
+Console.WriteLine($"Bye {name}");
