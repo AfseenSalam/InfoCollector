@@ -1,0 +1,14 @@
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\bin\Debug\net8.0\InfoCollector.exe
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\bin\Debug\net8.0\InfoCollector.deps.json
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\bin\Debug\net8.0\InfoCollector.runtimeconfig.json
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\bin\Debug\net8.0\InfoCollector.dll
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\bin\Debug\net8.0\InfoCollector.pdb
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.AssemblyInfoInputs.cache
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.AssemblyInfo.cs
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.csproj.CoreCompileInputs.cache
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.dll
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\refint\InfoCollector.dll
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.pdb
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\InfoCollector.genruntimeconfig.cache
+C:\Users\sm2239\source\repos\InfoCollector\InfoCollector\obj\Debug\net8.0\ref\InfoCollector.dll
